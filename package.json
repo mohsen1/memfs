@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@types/node": "^9.6.6",
-    "tslib": "^1.9.1",
+    "tslib": "^1.14.1",
     "typescript": "^3.0.0-dev.20180522"
   }
 }
